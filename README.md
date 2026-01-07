@@ -1,4 +1,4 @@
-<header>
+# I made an H1 header
 
 <!--
   <<< Author notes: Course header >>>
@@ -30,6 +30,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+I added an H1 header to README.md
 <footer>
 
 <!--
